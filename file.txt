@@ -1,0 +1,2 @@
+{ name: "jaki",school: "OSU",state: "OR" }
+{ name: "vamsi",school: "IIITK",state: "RA" }
